@@ -9,4 +9,4 @@ Dataset consist of daily trending YouTube videos. Data is included for the US, G
 Steps Performed:
 1) Performed detailed Exploratory Data Analysis to compare the independant features.
 2) Used Linear Regression to predict the target feature.
-3) Additional ensemble technique boosting to improve the model it more accuracy.
+3) Additional ensemble technique boosting to improve the model with more accuracy.
